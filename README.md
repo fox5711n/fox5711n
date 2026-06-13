@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Victor Junior
+# 👋 Olá, sou o Victor Junior
 
 💻 **Backend Developer | Engineering-Driven Development**
 🚀 *Construindo bases sólidas para sistemas escaláveis.*
