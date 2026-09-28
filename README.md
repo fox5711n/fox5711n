@@ -3,7 +3,7 @@
 💻 **Front-End Developer in Training | ADS @ Estácio de Sá**  
 🚀 *Criando interfaces web modernas, responsivas e de alta performance, com visão sistêmica de software.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-junior-90562618)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-junior-905626218?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorjunior2999@gmail.com)
 
 ---
