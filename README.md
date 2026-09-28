@@ -65,4 +65,4 @@
 ---
 
 📫 **Vamos conversar?**  
-Sinta-se à vontade para me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/victor-junior-90562618) ou por [E-mail](mailto:victorjunior2999@gmail.com)!
+Sinta-se à vontade para me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/victor-junior-905626218?utm_source=share_via&utm_content=profile&utm_medium=member_android) ou por [E-mail](mailto:victorjunior2999@gmail.com)!
