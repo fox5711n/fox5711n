@@ -58,8 +58,8 @@
 ### 📊 Estatísticas no GitHub
 
 <p align="left">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=fox5711n&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fox5711n&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=fox5711n&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fox5711n&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
